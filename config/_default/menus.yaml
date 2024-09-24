@@ -7,18 +7,18 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: My Research
+  - name: Research
     url: /#my_research
     weight: 11   
-  - name: Highlights 
-    url: /#research
+  - name: Highlight 
+    url: /#highlights
     weight: 13  
-  - name: Publications
+  - name: Publication
     url: /#publications
     weight: 15
   - name: Experience
     url: experience/
     weight: 20
-  - name: Awards
+  - name: Award
     url: awards/
     weight: 30

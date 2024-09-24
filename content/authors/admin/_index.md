@@ -52,25 +52,25 @@ interests:
   - Ambient noise Tomography
 
 education:
-  - area: Ph.D. Geopysics
+  - area: Ph.D. 
     institution: University of Science and Technology of China
     date_start: 2021-09-01
     date_end: ''
     summary: |
 
-  - area: Visiting Ph.D. student, Earth and Planetary Sciences
+  - area: Visiting Ph.D. student
     institution: McGill University
     date_start: 2023-11-16
     date_end: ''
     summary: |
 
-  - area: M.S. Geophysics
+  - area: M.S. 
     institution: University of Science and Technology of China
     date_start: 2019-09-01
     date_end: 2021-07-01
     summary: |
 
-  - area: BSc Geophysics
+  - area: BSc 
     institution: University of Science and Technology of China
     date_start: 2015-09-01
     date_end: 2019-07-31

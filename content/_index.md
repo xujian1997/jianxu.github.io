@@ -47,7 +47,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: research
+    id: highlights
     content:
       title: Featured Studies
       filters:
