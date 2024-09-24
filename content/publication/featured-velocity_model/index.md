@@ -1,5 +1,5 @@
 ---
-title: 'Induced seismic hazards in Changning shale gas field'
+title: 'Induced seismic hazards'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -32,7 +32,7 @@ abstract: Moderate to strong earthquakes have been induced worldwide by shale ga
 summary: High seismic velocity structures control moderate to strong induced earthquake behaviors induced by shale gas development
 
 tags:
-  - Seismogenic potential model
+  - Seismogenic potential
 
 # Display this page in the Featured widget?
 featured: true
