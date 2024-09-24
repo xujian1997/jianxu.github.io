@@ -41,7 +41,7 @@ sections:
         
         My technical skills include: (1) developing high-precision seismicity catalogs, from event detection to accurate (re)location; (2) characterizing georeservoir structures using ambient noise tomography; (3) conducting geomechanical modeling to simulate pore pressure diffusion and poroelastic stress perturbations induced by fluid injection; and (4) estimating in-situ Vp/Vs ratios using high waveform similarity techniques.
     design:
-      columns: '2'
+      columns: '1'
   - block: collection
     id: papers
     content:
