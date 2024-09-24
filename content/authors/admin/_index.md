@@ -11,7 +11,7 @@ last_name: Xu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -74,15 +74,15 @@ education:
     summary: |
       ''
 work:
-  - position: ''
-    company_name: ''
-    company_url: ''
-    company_logo: ''
-    date_start: ''
-    date_end: ''
+  - position: 
+    company_name: 
+    company_url: 
+    company_logo: 
+    date_start: 
+    date_end: 
     summary: |2-
-      ''
-  - position: ''
+
+  - position: 
     company_name: ''
     company_url: ''
     company_logo: ''
@@ -166,5 +166,9 @@ awards:
 ---
 
 ## About Me
+I am currently a Ph.D. candidate at the University of Science and Technology of China, specializing in Geophysics. My research focuses on induced seismicity associated with hydraulic fracturing in the Changning shale gas field. I have successfully constructed a high-resolution shear wave velocity model using ambient noise tomography based on a dense array and developed a precise seismicity catalog for the study region. Leveraging these observations, I have analyzed the key factors controlling the maximum magnitudes of induced earthquakes, characterized two distinct seismogenic patterns, and assessed seismic hazards by integrating seismic observations with geomechanical modeling (COMSOL). Currently, I am working on in-situ Vp/Vs estimations to gain a deeper understanding of the activation processes of seismogenic faults that host induced earthquakes.
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+In addition to my research on hydraulic fracturing-induced seismicity, I plan to expand my studies to other forms of induced seismicity caused by enhanced geothermal systems (EGS), wastewater disposal (WD), and CO₂ storage in my future career. My overarching research goal is to contribute to the mitigation of seismic hazards and risks associated with anthropogenic activities by elucidating the triggering mechanisms and source processes of induced earthquakes, particularly moderate to strong events.
+
+My technical skills include: (1) developing high-precision seismicity catalogs, from event detection to accurate (re)location; (2) characterizing georeservoir structures using ambient noise tomography; (3) conducting geomechanical modeling to simulate pore pressure diffusion and poroelastic stress perturbations induced by fluid injection; and (4) estimating in-situ Vp/Vs ratios using high waveform similarity techniques.
+
