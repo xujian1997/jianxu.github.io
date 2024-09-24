@@ -46,9 +46,9 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: research
     content:
       title: Featured Studies
-      id: research
       filters:
         folders:
           - publication

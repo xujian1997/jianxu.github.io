@@ -58,9 +58,6 @@ education:
     date_end: ''
     summary: |
 
-    button:
-      text: 
-      url: 
   - area: M.S. Geophysics
     institution: University of Science and Technology of China
     date_start: 2019-09-01
@@ -151,7 +148,7 @@ awards:
     awarder: Anhui Provincial Department of Education
     icon: 
     summary: |  
-    
+
 ---
 
 ## About Me
