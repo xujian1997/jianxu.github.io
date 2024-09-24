@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Featured Studies
       filters:
         folders:
           - publication
@@ -60,7 +60,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: false
+        exclude_featured: True
     design:
       view: citation
   - block: collection

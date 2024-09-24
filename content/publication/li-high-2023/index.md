@@ -3,7 +3,7 @@ title: High seismic velocity structures control moderate to strong induced earth
   behaviors by shale gas development
 authors:
 - Junlun Li
-- Jian Xu
+- admin
 - Haijiang Zhang
 - Wen Yang
 - Yuyang Tan

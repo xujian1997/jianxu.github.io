@@ -8,7 +8,7 @@ authors:
 - Haijiang Zhang
 - Huilin Xing
 - Junlun Li
-- Jian Xu
+- admin
 - Wen Yang
 - Ning Gu
 - Siyu Miao

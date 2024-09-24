@@ -4,7 +4,7 @@ title: High-resolution velocity structure and seismogenic potential of strong ea
 authors:
 - Yan Zhao
 - Junlun Li
-- Jian Xu
+- admin
 - Huajian Yao
 - Gaohua Zhu
 - Hongfeng Yang

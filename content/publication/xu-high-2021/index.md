@@ -2,7 +2,7 @@
 title: High resolution tomography of the Tanlu fault zone near Hefei with passive
   seismic and magnetotelluric linear array data
 authors:
-- Jian Xu
+- admin
 - Kangdong Wang
 - Junlun Li
 - Ning Gu
