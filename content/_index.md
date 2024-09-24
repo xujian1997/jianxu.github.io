@@ -34,6 +34,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    id: my_research
     content:
       title: '🌏 My Research'
       subtitle: ''

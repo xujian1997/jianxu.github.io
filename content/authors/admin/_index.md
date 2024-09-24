@@ -58,6 +58,12 @@ education:
     date_end: ''
     summary: |
 
+  - area: Visiting Ph.D. student, Earth and Planetary Sciences
+    institution: McGill University
+    date_start: 2023-11-16
+    date_end: ''
+    summary: |
+
   - area: M.S. Geophysics
     institution: University of Science and Technology of China
     date_start: 2019-09-01
