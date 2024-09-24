@@ -10,7 +10,7 @@ date: '2023-12-16'
 publishDate: '2024-09-24T01:49:03.985705Z'
 publication_types:
 - paper-conference
-publication: '*American Geophysical Union*'
+publication: '*AGU Fall Meeting Abstract*'
 doi: 
 tags:
 - 🌏

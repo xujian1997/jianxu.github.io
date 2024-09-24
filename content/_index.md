@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Studies
+      title: Study Highlights
       filters:
         folders:
           - publication
