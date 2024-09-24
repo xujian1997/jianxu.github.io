@@ -35,7 +35,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '🌏 My Research'
       subtitle: ''
       text: |-
         My research focuses on induced seismicity associated with hydraulic fracturing in the Changning shale gas field. I have successfully constructed a high-resolution shear wave velocity model using ambient noise tomography based on a dense array and developed a precise seismicity catalog for the study region. Leveraging these observations, I have analyzed the key factors controlling the maximum magnitudes of induced earthquakes, characterized two distinct seismogenic patterns, and assessed seismic hazards by integrating seismic observations with geomechanical modeling (COMSOL). Currently, I am working on in-situ Vp/Vs estimations to gain a deeper understanding of the activation processes of seismogenic faults that host induced earthquakes.
@@ -46,9 +46,9 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: Publications
     content:
-      title: Study Highlights
+      title: Featured Studies
       filters:
         folders:
           - publication
@@ -66,45 +66,6 @@ sections:
         exclude_featured: True
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
