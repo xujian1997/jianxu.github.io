@@ -31,20 +31,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:xjustc@mail.ustc.edu.cn'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: ''
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: ''
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: ''
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=zh-CN&user=O6YMr9EAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0000-0002-7168-8389
 
 interests:
   - Induced Seismicity
