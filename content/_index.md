@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: background.svg
           filters:
-            brightness: 0.25
+            brightness: 0.3
             opacity: 0.1
             contrast: 0.3
             saturate: 0.2
