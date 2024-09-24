@@ -1,5 +1,5 @@
 ---
-title: 'Induced seismic hazards'
+title: 'Induced seismic hazards in Changning shale gas field'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -15,7 +15,7 @@ date: '2024-09-23T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-05-01T00:00:00Z'
+publishDate: '2024-09-23T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -54,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'I'
+  caption: 'Regional seismic potential assessment based on 3D velocity structure'
   focal_point: ''
   preview_only: false
 
