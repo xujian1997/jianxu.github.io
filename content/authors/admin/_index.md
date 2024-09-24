@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 徐健
+title: Jian Xu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jian
+last_name: Xu
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. Student in Geophysics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
