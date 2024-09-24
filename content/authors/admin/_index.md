@@ -158,4 +158,4 @@ awards:
 ---
 
 ## About Me
-Jian Xu is a Ph.D. candidate at the University of Science and Technology of China, specializing in Geophysics. His research focuses on induced seismicity related to hydraulic fracturing in the Changning shale gas field, China. His research interests include source attributes of induced earthquakes, ambient noise tomography for reservoir characterization, and in-situ Vp/Vs estimation. Currently, he is a visiting Ph.D. student at McGill University, where he is expanding his technical expertise.
+Jian is a Ph.D. candidate at the University of Science and Technology of China, specializing in Geophysics. His research focuses on induced seismicity related to hydraulic fracturing in the Changning shale gas field, China. His research interests include source attributes of induced earthquakes, ambient noise tomography for reservoir characterization, and in-situ Vp/Vs estimation. Currently, he is a visiting Ph.D. student at McGill University, where he is expanding his technical expertise.
