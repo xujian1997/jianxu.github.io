@@ -52,7 +52,7 @@ interests:
   - Ambient noise Tomography
 
 education:
-  - area: PhD Geopysics
+  - area: Ph.D. Geopysics
     institution: University of Science and Technology of China
     date_start: 2021-09-01
     date_end: ''
