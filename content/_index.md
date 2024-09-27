@@ -52,7 +52,7 @@ sections:
       title: Featured Studies
       filters:
         folders:
-          - publication
+          - features
         featured_only: true
     design:
       view: article-grid
