@@ -56,7 +56,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 1
+      columns: 3
   - block: collection
     id: publications
     content:
