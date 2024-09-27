@@ -1,5 +1,5 @@
 ---
-title: 'Two seismicity patterns'
+title: 'Velocity-controlled ruptures'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -23,17 +23,17 @@ publishDate: '2024-09-23T00:00:00Z'
 publication_types: ['']
 
 # Publication name and optional abbreviated publication name.
-publication: Under review in *Journal of Geophysical Research:Solid Earth*
+publication: 
 publication_short: 
 
-abstract: Characterizing seismic responses to hydraulic fracturing (HF) in shale gas development is crucial for seismic hazard assessment and mitigation strategy design. Although intensive HF operations have led to severe induced seismic hazards in the Changning shale gas field (CSF) in China for over a decade, the detailed correlation between fluid injection and seismicity is still unclear. Using a 336-nodal-sensor dense array of 70 days in 2019, we develop an enhanced CSF seismicity catalog and combine it with focal mechanism solutions, fluid injection time series, seismic reflection profiles and geomechanical models to identify the distinct shallow and deep seismicity responses to HF. The first pattern consists of deep earthquake clusters that migrate along strike-slip faults in the limestone formation at ~1 km below the treatment depth. These clusters contain frequent M > 2 earthquakes, including the largest M 3.3 event, and exhibit transient seismicity rate changes in rapid response to HF. In contrast, the second pattern consists of shallow clusters in the target shale formation that persist for over a year following HF. The shallow clusters include smaller earthquakes and exhibit thrust-style faulting with no discernible spatial migration. Our geomechanical simulations suggest the deep fault reactivation is best explained by the combined effects of poroelastic stress loading and pore-pressure increases. Stable seismicity rate, frequent casing deformation in conjunction with low-frequency waveform characteristics indicate post-HF long-term aseismic deformation may drive the shallow seismicity. These distinct seismic responses during and after HF operations underscore the need for a spatiotemporally adaptive hazard mitigation strategy for the CSF.
+abstract: Source attribute analysis for the Xingwen M5.7 earthquake. a The Xingwen (XW) M5.7 earthquake sequence monitored by the local network within 40 days from 26 Nov., 2018 to 6 Jan., 2019. The top left elliptical inset shows the zoomed-in spatial pattern of the fore-main-aftershocks, and the black and magenta dots represent foreshocks and aftershocks, respectively. The gray dots denote more distant induced seismicity. The blue squares mark the hydraulic fracturing well pads close to line BB’ with the N201H24 well pad highlighted by red. The magenta beachballs represent the moderate earthquakes close to the line BB’. b The velocity anomaly profile along the rupture plane shown as line A-A’ in (a). The initiation point is indicated by the black star, and the main slip areas are enclosed by the white dashed lines. The black and magenta dots indicate the foreshocks and aftershocks within 1 km in distance to the rupture plane AA’. The origin of the cross-section is referenced to the initiation point and the anomaly is referenced to the average velocity at each depth. The locations of the HF platforms close to line AA’ are plotted on top. c The distribution of the co-seismic slips from the finite-fault rupture inversion (see Methods) along the same fault plane in (b). d Comparison between the 2-D active source seismic profile (39) with the shear velocity model from ANT. The major stratigraphic layers are marked. The depths of the lithological sequence are determined by well N20337. The locations of the HF platforms close to line BB’ are plotted at the top of panel (d).
 
 
 # Summary. An optional shortened abstract.
-summary: Distinct shallow and deep seismicity clusters are triggered by hydraulic fracturing in the Changning shale gas field, China. The deep transient seismicity is triggered immediately by hydraulic fracturing and has hightened potential for large induced earqthuakes. The shallow lingering seismicity persists for over a year after hydraulic fracturing and may indicate long-lived aseismic deformation
+summary: The magnitudes and co-seismic slip distributions of the 2018 Xingwen M5.7 and 2019 Gongxian M5.3 earthquakes are further determined jointly by seismic waveforms and InSAR data, and the co-seismic slips of these two earthquakes correlate with high seismic velocity zones along the fault planes. 
 
-tags:
-  - Seismicity patterns
+tags: Velocity-controlled ruptures
+  - 
 
 # Display this page in the Featured widget?
 featured: true
@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Distinct deep and shallow seismicity patterns'
+  caption:
   focal_point: ''
   preview_only: false
 

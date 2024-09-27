@@ -1,5 +1,5 @@
 ---
-title: 'Two seismicity patterns'
+title: 'Formation controlled Seismicity '
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -23,17 +23,17 @@ publishDate: '2024-09-23T00:00:00Z'
 publication_types: ['']
 
 # Publication name and optional abbreviated publication name.
-publication: Under review in *Journal of Geophysical Research:Solid Earth*
+publication: 
 publication_short: 
 
-abstract: Characterizing seismic responses to hydraulic fracturing (HF) in shale gas development is crucial for seismic hazard assessment and mitigation strategy design. Although intensive HF operations have led to severe induced seismic hazards in the Changning shale gas field (CSF) in China for over a decade, the detailed correlation between fluid injection and seismicity is still unclear. Using a 336-nodal-sensor dense array of 70 days in 2019, we develop an enhanced CSF seismicity catalog and combine it with focal mechanism solutions, fluid injection time series, seismic reflection profiles and geomechanical models to identify the distinct shallow and deep seismicity responses to HF. The first pattern consists of deep earthquake clusters that migrate along strike-slip faults in the limestone formation at ~1 km below the treatment depth. These clusters contain frequent M > 2 earthquakes, including the largest M 3.3 event, and exhibit transient seismicity rate changes in rapid response to HF. In contrast, the second pattern consists of shallow clusters in the target shale formation that persist for over a year following HF. The shallow clusters include smaller earthquakes and exhibit thrust-style faulting with no discernible spatial migration. Our geomechanical simulations suggest the deep fault reactivation is best explained by the combined effects of poroelastic stress loading and pore-pressure increases. Stable seismicity rate, frequent casing deformation in conjunction with low-frequency waveform characteristics indicate post-HF long-term aseismic deformation may drive the shallow seismicity. These distinct seismic responses during and after HF operations underscore the need for a spatiotemporally adaptive hazard mitigation strategy for the CSF.
+abstract: Changning shale gas field and induced seismicity monitored by the dense array. (a) 3D perspective of the CSF. The undulating blue surface represents the bottom of the Wufeng-Longmaxi shale formation (production layer) derived from 3D seismic reflection (Lu et al., 2021). Blue lines within the production layer show trajectories of horizontal wells. The gray box in the bottom of (a) indicates the basement, located ~4 km below the mean sea level. Colored dots represent the selected six earthquake clusters, i.e., D1-D3 (orange dots) and S1-S3 (blue dots). (b) Active-source seismic profile along the vertical translucent plane in (b). Solid red lines represent faults detected by active seismic imaging. The deep cluster D2 is not projected onto this profile due to large distance. “F0” labels the nearest basement-rooted fault at the southern edge of the deep cluster D1. (c) Interpretation of formations below the W-L production formation. W-L, Wufeng-Longmaxi shale formation; XXC, Xixiangchi dolomite formation; GT, Gaotai gypsum formation; LWM, Longwangmiao limestone formation; CLP, Canglangpu siltstone formation; QZS Qiongzhusi shale formation and the Precambrian basement.
 
 
 # Summary. An optional shortened abstract.
-summary: Distinct shallow and deep seismicity clusters are triggered by hydraulic fracturing in the Changning shale gas field, China. The deep transient seismicity is triggered immediately by hydraulic fracturing and has hightened potential for large induced earqthuakes. The shallow lingering seismicity persists for over a year after hydraulic fracturing and may indicate long-lived aseismic deformation
+summary: A comparison of the hypocenter distributions with an active seismic reflection profile transecting the clusters in proximity reveals a clear alignment between the focal depths of the events and the undulations of the layers. 
 
-tags:
-  - Seismicity patterns
+tags: Formation controlled Seismicity
+  - 
 
 # Display this page in the Featured widget?
 featured: true
@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Distinct deep and shallow seismicity patterns'
+  caption: 
   focal_point: ''
   preview_only: false
 
