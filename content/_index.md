@@ -49,7 +49,7 @@ sections:
   - block: collection
     id: highlights
     content:
-      title: Result hilights
+      title: Result highlights
       filters:
         folders:
           - features
