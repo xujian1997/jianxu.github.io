@@ -49,7 +49,7 @@ sections:
   - block: collection
     id: highlights
     content:
-      title: Featured Studies
+      title: Result hilights
       filters:
         folders:
           - features
